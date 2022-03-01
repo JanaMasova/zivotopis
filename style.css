@@ -1,0 +1,77 @@
+h1,
+h2,
+h3{
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1{
+   text-align: center; 
+   font-size: 54px;
+}
+
+h2{
+    text-align: center;
+}
+
+header{
+    background-color: #BAD1CD;
+    overflow: auto;
+    padding: 15px 30px;
+    margin: 0;
+    
+}
+
+header section{
+    padding-right: 50px;
+    padding-left: 30%;
+}
+
+body{
+    font-family: 'DM Sans', sans-serif;
+    color: #071108; 
+    line-height: 1.3;
+    margin: 0;
+}
+
+header img{
+    width: 20%;
+    border: 7px solid white;
+    float: left;   
+
+}
+
+h3{
+    background-color: #BAD1CD;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+h5{
+    margin: 5px;
+    color: gray;
+}
+
+section{
+    padding: 40px 20%;
+    overflow: auto;
+    }
+
+.ramecek{
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072);
+    padding: 15px;
+    border-radius: 20px;
+   
+}
+
+footer{
+    background-color: #282425;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
